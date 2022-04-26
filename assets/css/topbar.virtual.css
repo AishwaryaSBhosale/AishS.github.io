@@ -145,7 +145,7 @@
 .page-about .img-place {
   width: 280px;
   height: 350px;
-  background-color: #dfe0e6;
+  /* background-color: #dfe0e6;*/
   overflow: unset;
 }
 
@@ -666,7 +666,4 @@
 .bottom_copyright{
   font-weight: normal;
   color: White;
-}
-.page-about {
-  background-color: #fff;
 }
