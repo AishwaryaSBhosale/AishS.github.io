@@ -512,6 +512,7 @@
 
 .theme-red .page-about .img-place::before {
   border-color: #EF3724;
+  border-radius: 9px;
 }
 
 .theme-red .timeline li:first-child .title {
